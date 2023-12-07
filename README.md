@@ -3,5 +3,9 @@
 <h3 align="center">Software engineer from ITMO university</h3>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ulyagff&theme=solarized_dark)
 
+<img src="https://github-readme-stats.vercel.app/api?username=ulyagff&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
+
+
+
 
 
